@@ -5,3 +5,4 @@ CSCI 3308 Lab 3 files
 
 
 By: Eddie
+Partner: Kathryn
